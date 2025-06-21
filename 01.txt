@@ -684,7 +684,7 @@ CETV1，rtsp://150.138.8.143/PLTV/88888888/224/3221226744/395256464.smil
 
 
 
-V6专区,#genre#
+🐼V6专区,#genre#
 
 
 CCTV1,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
@@ -1237,7 +1237,7 @@ CETV4,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 日照公共,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001100/index.m3u8?IASHttpSessionId=
 
 
-山东地区,#genre#
+🐼山东地区,#genre#
 
 
 山东卫视，rtsp://150.138.8.143/PLTV/88888888/224/3221226059/10000100000000060000000002709088_0.smil
@@ -1558,10 +1558,8 @@ HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 
 青田新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-大陆MainLand,#genre#
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 亲亲20音乐,http://61.221.215.25:8800/hls/49/index.m3u8
-台湾4G,#genre#
 民視第一台,http://113.29.232.62:50005/4gtv-4gtv003/index.m3u8
 民視台灣台,http://113.29.232.62:50005/4gtv-4gtv001/index.m3u8
 民視,http://113.29.232.62:50005/4gtv-4gtv002/index.m3u8
@@ -1916,22 +1914,6 @@ ACCDN,https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 
 
 
-🚧体育频道,#genre#
-
-
-
-四海钓鱼,http://goo.bkpcp.top/mg/shdy
-四海钓鱼,http://sport.pendy.dpdns.org/migu/721355039?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-四海钓鱼,http://php.jdshipin.com:8880/cqyx.php?id=DIAOYU
-四海钓鱼,https://live.goodiptv.club/api/cqyx.php?id=DIAOYU
-四海钓鱼,http://over.qiyuevod.com/tmsctv/scxg.php?id=shdy_4000
-四海钓鱼,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43036/index.m3u8
-四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
-四海钓鱼,http://113.65.7.94:8888/udp/239.77.1.137:5146
-四海钓鱼,http://115.223.11.212:6480/live2.rxip.sc96655.com/live/shdy_4000.m3u8
-四海钓鱼,http://maomao.kandiantv.cn/m3u8.php?/migu/721355039
-
-
 
 
 🐠斗鱼轮播,#genre#
@@ -2274,7 +2256,9 @@ clbyw,http://iptv.jxpan.vip:18888/aio/douyu/7839007
 
 
 
-🐼体育专区,#genre#
+
+
+🚧体育专区,#genre#
 24小时体育台,http://8.138.7.223/tv/migu2.php?id=87
 CCTV5+体育赛事,http://39.164.174.139:5000/nl.m3u8?id=CCTV-5PHD
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -2314,6 +2298,16 @@ NEWTV精品体育,http://39.134.64.87:6610/PLTV/88888888/224/3221225674/index.m3
 纬来体育,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 长春文旅体育,http://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
+四海钓鱼,http://goo.bkpcp.top/mg/shdy
+四海钓鱼,http://sport.pendy.dpdns.org/migu/721355039?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+四海钓鱼,http://php.jdshipin.com:8880/cqyx.php?id=DIAOYU
+四海钓鱼,https://live.goodiptv.club/api/cqyx.php?id=DIAOYU
+四海钓鱼,http://over.qiyuevod.com/tmsctv/scxg.php?id=shdy_4000
+四海钓鱼,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43036/index.m3u8
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,http://113.65.7.94:8888/udp/239.77.1.137:5146
+四海钓鱼,http://115.223.11.212:6480/live2.rxip.sc96655.com/live/shdy_4000.m3u8
+四海钓鱼,http://maomao.kandiantv.cn/m3u8.php?/migu/721355039
 
 
 🎬影视频道,#genre#
